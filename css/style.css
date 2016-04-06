@@ -424,7 +424,7 @@ h2 {
 }
 .block-4 .experts {
   margin: 0 auto;
-  width: 1000px;
+  width: 660px;
   padding-top: 65px;
 }
 .block-4 .ex1 {
@@ -433,6 +433,7 @@ h2 {
   background-repeat: no-repeat;
   width: 300px;
   height: 250px;
+  display: none;
 }
 .block-4 .ex1 p {
   top: 495px;
